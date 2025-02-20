@@ -1,0 +1,114 @@
+.container{
+    border:10px solid lightskyblue;
+    height: 830px;
+    width: 600px;
+}
+h2{
+    text-align: center;
+    color:red;
+}
+input{
+    border-color:  red;
+    height: 25px;
+    width:350px;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+label input{
+    height: 15px;
+    width: 15px;
+}
+body{
+    margin-top: 37px;
+    height: 90vh;
+    display:grid;
+    place-content: center;
+    }
+font{
+    margin-left: 70px;
+    font-weight: 600;
+
+}
+
+label input{
+    margin-left: 130px;
+}
+.age{
+margin-left: 109px;
+}
+.date{
+    margin-left: 54px;
+}
+.email{
+    margin-left: 44px;
+}
+.password{
+    margin-left: 76px;
+}
+.Confirm{
+    margin-left: 17px;
+}
+.Phone{
+    margin-left: 7px;
+    width:295px;
+}
+
+select{
+    margin-left: 35px;
+    height:29px;
+}
+.address{
+    margin-left: 86px;
+    height:70px;
+}
+.option{
+    margin-top:20px;
+    width:355px;
+    margin-left: 103px;
+    border-color:red;
+}
+.pin{
+    margin-left: 79px;
+}
+.chackbox{
+margin-left: 30px;
+height:17px;
+width: 17px;
+border:2px solid red;
+}
+button{
+    margin-top: 15px;
+    margin-left:19px;
+}
+.mark{
+    margin-left: 71px;
+    height:17px;
+    width: 17px;
+    border:2px solid red;
+}
+
+pre{
+    font-size: 12px;
+}
+.Register{
+    margin-left: 120px;
+    height:30px;
+width:130px;
+background: rgba(192, 5, 46, 0.781);
+color:white;
+border:none;
+font-weight: 600;
+}
+.Reset{
+    margin-left: 120px;
+    height:30px;
+width:130px;
+background: rgba(192, 5, 46, 0.781);
+color:white;
+border:none;
+font-weight: 600;
+}
+span{
+    margin-left:39px;
+    color:#fff;
+}
